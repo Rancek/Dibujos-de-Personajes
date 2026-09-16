@@ -135,7 +135,12 @@ Las imágenes originales se encuentran organizadas dentro de las carpetas de est
 
 ### 🎭 Personajes y expresiones
 
-![Estudios de personajes](./ruta-a-tu-imagen.jpg)
+![Estudios de personajes]([./ruta-a-tu-imagen.jpg](https://github.com/Rancek/Dibujos-de-Personajes/blob/main/Pagina_v2.jpg)])
+
+([https://github.com/Rancek/Dibujos-de-Personajes/blob/main/Bebe.png])
+
+([])
+
 
 ### 🔄 Rotaciones
 
