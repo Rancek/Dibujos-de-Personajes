@@ -175,9 +175,62 @@ Estos conocimientos posteriormente pueden aplicarse al desarrollo de:
 
 
 
-### 🔄 Rotaciones
+## 🔄 Rotación y construcción de personajes
 
-![Rotaciones de personajes](./ruta-a-tu-imagen.jpg)
+La rotación de personajes es una parte fundamental del proceso de diseño y animación, ya que permite establecer cómo se visualiza un personaje desde diferentes ángulos y mantener la **coherencia de sus proporciones, formas y características** durante una producción.
+
+A continuación presento dos trabajos realizados durante mi formación universitaria, correspondientes a distintos proyectos de animación.
+
+### 👶 Rotación de personaje — Proyecto de animación
+
+<p align="center">
+  <img src="https://github.com/Rancek/Dibujos-de-Personajes/blob/main/bebe_rotacion.jpg?raw=true" width="650">
+</p>
+
+<p align="center">
+  <em>Hoja de rotación del personaje bebé desarrollada para el proyecto final de animación.</em>
+</p>
+
+Este estudio fue realizado como parte del desarrollo del personaje utilizado en el proyecto final de animación. La hoja de rotación permite definir visualmente al personaje desde diferentes perspectivas, facilitando posteriormente las etapas de **animación, construcción de poses y continuidad visual**.
+
+El trabajo considera principalmente:
+
+* 👤 Vista frontal y diferentes ángulos del personaje.
+* 📐 Mantención de proporciones y estructura.
+* 🧩 Consistencia de los elementos visuales del personaje.
+* 🎬 Preparación del diseño para su posterior animación.
+* ✏️ Definición de formas y características principales.
+
+### 🎬 Rotación de personaje — Corto 2D
+
+<p align="center">
+  <img src="https://github.com/Rancek/Dibujos-de-Personajes/blob/main/Pagina_v2.jpg?raw=true" width="650">
+</p>
+
+<p align="center">
+  <em>Hoja de rotación desarrollada para otro proyecto de cortometraje en animación 2D.</em>
+</p>
+
+Este segundo trabajo corresponde al desarrollo de un personaje destinado a un **cortometraje de animación 2D**. El objetivo fue establecer una referencia visual que permitiera mantener la apariencia del personaje de manera consistente durante las distintas escenas y planos.
+
+El estudio contempla aspectos como:
+
+* 🎭 Construcción visual del personaje.
+* 🔄 Diferentes vistas y ángulos.
+* 📏 Proporciones y estructura.
+* ✏️ Diseño orientado a la animación 2D.
+* 🎞️ Uso de la hoja como referencia para la producción del cortometraje.
+
+### 🎨 Importancia dentro del proceso de animación
+
+Estos ejercicios forman parte de la etapa de **desarrollo y planificación de personajes**, permitiendo transformar un diseño inicial en una referencia útil para la producción.
+
+La creación de rotaciones ayuda especialmente a:
+
+**Diseño → Construcción → Rotación → Poses → Animación**
+
+De esta manera, el personaje puede conservar una identidad visual coherente mientras interactúa con diferentes escenas, movimientos y perspectivas.
+
 
 ### 🌄 Entornos
 
