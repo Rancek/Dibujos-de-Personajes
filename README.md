@@ -139,35 +139,40 @@ Las imágenes originales se encuentran organizadas dentro de las carpetas de est
 
 <p align="center"> <em>Estudio de personaje y expresiones desarrollado durante mi formación universitaria.</em> </p>
 
-### 🎭 Expresiones de personajes
+## 🎭 Expresiones de personajes
 
-<p align="center"> <img src="https://github.com/Rancek/Dibujos-de-Personajes/blob/main/Expreciones.jpg?raw=true" width="650"> </p>
+<p align="center">
+  <img src="https://github.com/Rancek/Dibujos-de-Personajes/blob/main/Expreciones.jpg?raw=true" width="650">
+</p>
 
-<p align="center"> <em>Estudios de expresiones faciales desarrollados durante mi formación universitaria.</em> </p>
+<p align="center">
+  <em>Estudios de expresiones faciales desarrollados durante mi formación universitaria.</em>
+</p>
 
-🗣️ Exploración de expresiones
+### 🗣️ Exploración de expresiones
 
-Este estudio está enfocado en la expresión facial y comunicación emocional de los personajes, explorando diferentes estados de ánimo y variaciones en los rasgos del rostro.
+Este estudio está enfocado en la **expresión facial y comunicación emocional de los personajes**, explorando diferentes estados de ánimo y variaciones en los rasgos del rostro.
 
 El objetivo de estos ejercicios fue comprender cómo elementos como:
 
-👀 La mirada
-👄 La posición y forma de la boca
-🤨 Las cejas
-🙂 La expresión general del rostro
-🎭 La combinación de diferentes rasgos
+* 👀 La mirada
+* 👄 La posición y forma de la boca
+* 🤨 Las cejas
+* 🙂 La expresión general del rostro
+* 🎭 La combinación de diferentes rasgos
 
 pueden modificar la emoción y personalidad que transmite un personaje.
 
-Estos estudios forman parte de mi preparación en diseño y animación de personajes, ayudándome a desarrollar una mejor comprensión de la actuación facial y de cómo transmitir emociones visualmente.
+Estos estudios forman parte de mi preparación en **diseño y animación de personajes**, ayudándome a desarrollar una mejor comprensión de la actuación facial y de cómo transmitir emociones visualmente.
 
-🎬 Relación con la animación
+### 🎬 Relación con la animación
 
-El estudio de expresiones fue especialmente importante para mi formación en animación, ya que una expresión facial no es solamente un dibujo, sino parte del lenguaje corporal y narrativo del personaje.
+El estudio de expresiones fue especialmente importante para mi formación en animación, ya que una expresión facial no es solamente un dibujo, sino parte del **lenguaje corporal y narrativo del personaje**.
 
 Estos conocimientos posteriormente pueden aplicarse al desarrollo de:
 
-🎭 Acting → 🗣️ Lip Sync → 😊 Expresiones faciales → 🎬 Animación
+**🎭 Acting → 🗣️ Lip Sync → 😊 Expresiones faciales → 🎬 Animación**
+
 
 
 ### 🔄 Rotaciones
